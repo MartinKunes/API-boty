@@ -1,7 +1,7 @@
 {
   "sneakers": [
     {
-      "image": https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/458/084/original/569208_01.jpg.jpeg?action=crop&width=600
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/458/084/original/569208_01.jpg.jpeg?action=crop&width=600",
       "name": "Nike Air Jordan 1",
       "releaseDate": "2022-05-01",
       "price": 200
